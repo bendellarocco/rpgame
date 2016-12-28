@@ -1,0 +1,3 @@
+rootProject.name = 'rpgame'
+
+include ':app'
